@@ -225,31 +225,31 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7Cdr
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", PVT Sports
 http://38.96.178.201/live/PTVSports/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", A Sports
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", A Sports
 http://38.96.178.201/live/ASports/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", T Sports
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", T Sports
 http://38.96.178.201/live/TSports/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN1
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN1
 http://212.102.60.231/TSN_1/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN2
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN2
 http://212.102.60.231/TSN_2/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN3
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN3
 http://212.102.60.231/TSN_3/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN4
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN4
 http://212.102.60.231/TSN_4/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN5
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", TSN5
 http://212.102.60.231/TSN_5/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", FOX_Sports_1
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", FOX_Sports_1
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", FOX_Sports_2
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", FOX_Sports_2
 http://212.102.60.10/FOX_Sports_2/index.m3u8
 
 
