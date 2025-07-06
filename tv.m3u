@@ -299,10 +299,10 @@ http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
-https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bangla", Kolkata TV
-https://sflex07.fun:443/07/jio/app/ts_live_1264.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
 http://38.96.178.201/live/SangeetBangla/index.m3u8
@@ -324,7 +324,6 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
 
@@ -372,6 +371,67 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/A
 
 
 
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
+http://38.96.178.201/live/StarGold/index.m3u8
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
+
+#EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
+
+#EXTINF:-1 tvg-id="andpicturehd.in" tvg-logo="" group-title="Hindi Movies",& Picture HD
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Hindi Movies",Sony Max HD 
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Hindi Movies",Sony Max2 HD 
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Hindi Movies",Zee Cinema
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD NZ
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png" group-title="",Zee Anmol Cinema
+
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlogo2d9df480fb454003af3b291d3180f237.png" group-title="",Zee Action
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies", Colors Cineplex
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies", Colors Cineplex HD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies", Colors Cineplex Superhit
+http://38.76.152.22:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Hindi Movies", Colors Cineplex Bollywood
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zing
+http://38.96.178.201/live/Zing/index.m3u8
 
 
 
