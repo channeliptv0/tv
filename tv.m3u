@@ -110,3 +110,163 @@ https://amg17931-zee-amg17931c6-samsung-th-5714.playouts.now.amagi.tv/playlist.m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/ddsports.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_204.m3u8
+http://xott.live:8080/shams1234/shams1234/167588
+
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
+https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflix
+#https://smart.bengaldigital.live/star-sports-1/index.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
+https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflix
+#http://xott.live:8080/shams1234/shams1234/167573
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
+#http://starshare.live/live/bana/bana/9399.m3u8
+http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
+
+
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="Sports",STAR SPORTS 2 Hd
+#http://starshare.live/live/bana/bana/239.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports2Hd.m3u8
+https://smart.bengaldigital.live/star-sports-2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
+https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflix
+#http://xott.live:8080/shams1234/shams1234/167574
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports", Star Sports 2
+#https://sflex07.fun:443/07/jio/app/ts_live_1985.m3u8
+http://xott.live:8080/shams1234/shams1234/167574
+
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="Sports",Star Sports 3
+http://xott.live:8080/shams1234/shams1234/167577
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
+#http://starshare.live/live/bana/bana/238.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSportsSelect1Hd.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
+#http://starshare.live/live/bana/bana/148801.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSportsSelect2Hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png" tvg-chno="15" group-title="Sports",Sony sports ten 1 
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
+#https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109983.m3u8|user-agent=@xfireflix
+
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sports",Sony sports ten 2 
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sports",Sony sports ten 2 HD 
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="19" group-title="Sports",Sony sports ten 3 
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sports",Sony sports ten 3 HD 
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen3HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="21" group-title="Sports",Sony sports ten 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen4.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="20" group-title="Sports",Sony sports ten 4 HD 
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen4HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sports",Sony sports ten 5
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sports",Sony sports ten 5 HD 
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen5HD.m3u8
+
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
+#http://starshare.live/live/bana/bana/124269.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsCricketHd.m3u8
+
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Plus
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsPlus.m3u8
+
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Football
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsFootball.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cric" tvg-name="Fox Sport 501 HD" tvg-logo="https://media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sports 501 HD
+#http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=4578&deviceMac=00:1A:79:41:70:15
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/FoxSports501Hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Plus" group-title="Sports",FoxSoccerPlus Plus
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/FoxSoccerPlus.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO CRICKET HD
+#http://starshare.live/live/bana/bana/2494.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AstroCricketHd.m3u8
+http://xott.live:8080/shams1234/shams1234/167581
+
+#EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
+http://xott.live:8080/shams1234/shams1234/167583
+
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
+#https://rex-streaming.vercel.app/api/x/167582.m3u8
+#http://xott.live:8080/shams1234/shams1234/167582
+https://rex-streaming.vercel.app/api/BDIX/167582.m3u8|user-agent=@xfireflix
+
+#EXTINF:-1 tvg-id="DistroTVUS_79275" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png" group-title="Sports",beIN SPORTS Xtra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79275&ads.show_id=3125&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=beIN%20SPORTS%20Xtra&ads.episodetitle=beIN%20SPORTS%20Xtra&ads.keywords=beIN%20Sports%2CSports%2CbeIN&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+
+#EXTINF:-1 tvg-id="DistroTVUS_79276" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/logo_20231219_184521_68.png" group-title="Sports",beIN SPORTS Xtra en Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live&ads.vf=20241020
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports", Eurosport HD
+http://xott.live:8080/shams1234/shams1234/206324
+
+#EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
+#https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
+http://xott.live:8080/shams1234/shams1234/167585
+
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
+#https://rex-streaming.vercel.app/api/x/167569.m3u8
+https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflix
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
+
+
+
+
+
